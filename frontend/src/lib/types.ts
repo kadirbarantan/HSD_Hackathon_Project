@@ -1,4 +1,4 @@
-// Mirrors the DTOs in backend/CareerPath.Api/Dtos. Keep both sides in sync.
+// Mirrors the DTOs in backend/CollabMe.Api/Dtos. Keep both sides in sync.
 
 export type CompetencyLevel = 'Learning' | 'Comfortable' | 'Strong'
 export type ListingStatus = 'Open' | 'Closed' | 'Completed' | 'Cancelled'

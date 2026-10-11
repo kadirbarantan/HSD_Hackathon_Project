@@ -1,7 +1,7 @@
-# Collab Me
+# CollabMe
 ### Takım arkadaşını bul. Projeni geliştir. Birlikte öğren.
 
-Career Path, öğrencilerin kendi becerilerini tamamlayan takım arkadaşları bulmalarını ve birlikte proje geliştirerek öğrenmelerini sağlayan bir platformdur.
+CollabMe, öğrencilerin kendi becerilerini tamamlayan takım arkadaşları bulmalarını ve birlikte proje geliştirerek öğrenmelerini sağlayan bir platformdur.
 
 ## Problem
 
@@ -11,7 +11,7 @@ Takım arkadaşını bulmak da tek başına yeterli değildir. Görevleri payla�
 
 ## Çözümümüz
 
-Career Path; proje sahibi öğrencilerle projeye katkıda bulunmak isteyen öğrencileri becerileri ve uygunlukları üzerinden buluşturur.
+CollabMe; proje sahibi öğrencilerle projeye katkıda bulunmak isteyen öğrencileri becerileri ve uygunlukları üzerinden buluşturur.
 
 **Proje sahipleri de öğrencidir.** Amacımız, öğrencilerin eşit takım arkadaşları olarak birlikte üretmesini ve birbirlerinden öğrenmesini desteklemektir.
 

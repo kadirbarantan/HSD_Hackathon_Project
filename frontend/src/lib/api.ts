@@ -1,6 +1,6 @@
-const TOKEN_KEY = 'careerpath.token'
+const TOKEN_KEY = 'collabme.token'
 
-export const UNAUTHORIZED_EVENT = 'careerpath:unauthorized'
+export const UNAUTHORIZED_EVENT = 'collabme:unauthorized'
 
 export const tokenStore = {
   get: () => localStorage.getItem(TOKEN_KEY),
